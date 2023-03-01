@@ -1,5 +1,5 @@
 
-[![DOI](https://zenodo.org/badge/{github_id}.svg)](https://zenodo.org/badge/latestdoi/{github_id})
+[![DOI](https://zenodo.org/badge/608209038.svg)](https://zenodo.org/badge/latestdoi/608209038)
 
 # Sources for: Numerical Simulations of a Spin Dynamics Model Based on a Path Integral Approach
 
