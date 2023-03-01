@@ -42,7 +42,7 @@
         {
             "code": "EP/V037935/1",
             "links": {
-                "https://zenodo.org/api/grants/10.13039/100014013::EP/V037935/1"
+                "self": "https://zenodo.org/api/grants/10.13039/100014013::EP/V037935/1"
             },
             "title": "Path Integral Quantum Spin Dynamics",
             "program": "EPSRC",
