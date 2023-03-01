@@ -38,21 +38,6 @@
     ],
 
     "grants": [
-        {
-            "code": "EP/V037935/1",
-            "links": {
-                "self": "https://zenodo.org/api/grants/10.13039/100014013::EP/V037935/1"
-            },
-            "title": "Path Integral Quantum Spin Dynamics",
-            "program": "EPSRC",
-            "funder": {
-                "doi": "https://zenodo.org/api/funders/10.13039/100014013", 
-                "acronyms": [], 
-                "name": "UK Research and Innovation", 
-                "links": {
-                    "self": "https://zenodo.org/api/funders/10.13039/100014013"
-                }
-            }
-        }
+        {"id": "10.13039/100014013::EP/V037935/1"}
     ]
 }
