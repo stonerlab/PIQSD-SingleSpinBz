@@ -1,0 +1,12 @@
+excess data in 'kern' subtable: 6 bytes
+fdsc NOT subset; don't know how to subset; dropped
+feat NOT subset; don't know how to subset; dropped
+meta NOT subset; don't know how to subset; dropped
+morx NOT subset; don't know how to subset; dropped
+'created' timestamp seems very low; regarding as unix timestamp
+'modified' timestamp seems very low; regarding as unix timestamp
+'created' timestamp seems very low; regarding as unix timestamp
+'modified' timestamp seems very low; regarding as unix timestamp
+'created' timestamp seems very low; regarding as unix timestamp
+'modified' timestamp seems very low; regarding as unix timestamp
+runtime: 0.939 (s)

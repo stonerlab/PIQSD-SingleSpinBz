@@ -1,0 +1,10 @@
+name: quantum_spin_dynamics
+channels:
+  - conda-forge
+dependencies:
+ - python=3.10
+ - matplotlib=3.6.2
+ - numba=0.56.4
+ - numpy=1.23.5
+ - scipy=1.9.3
+ - sympy=1.11.1
