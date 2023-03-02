@@ -64,7 +64,7 @@ Calculates and plots the high-temperature spin coherent states expansion method.
 Calculates and plots the high-temperature spin coherent states expansion normalization with approximation <z|s_z * exp(s_z)|z>~<z|s_z|z> * <z|exp(s_z)|z>. Expectation value for Sz for s=2 as a function of temperature, unnormalized, normalized and the quantum limit. 
 
 **python/figure5.py**:
-Calculates and plots the higher order correction for the high-temperature spin coherent states expansion method. Expectation value for Sz for s=1/2 as a function of temperature for classical limit, quantum solution, effective model with 10th correction from partition function and equivalent results from enhanced atomistic spin dynamics simulations. 
+Calculates and plots the higher order correction for the high-temperature spin coherent states expansion method. Expectation value for Sz for s=2 as a function of temperature for classical limit, quantum solution, effective model with 10th correction from partition function and equivalent results from enhanced atomistic spin dynamics simulations. 
 
 ### ./figures/
 
