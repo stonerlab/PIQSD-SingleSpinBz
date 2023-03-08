@@ -5,6 +5,8 @@
 
 This repository contains source code which implements a path integral approach to calculate the thermodynamics of quantum spin in a constant magnetic field along the z-direction. It contains functions for analytic solutions and a numerical approach based on atomistic spin dynamics. 
 
+The preprint this code corresponds to is https://arxiv.org/abs/2303.00602
+
 ## Authors
 
 Thomas Nussle, *School of Physics and Astronomy, University of Leeds, Leeds, LS2 9JT, United Kingdom*, http://orcid.org/0000-0001-9783-4287
