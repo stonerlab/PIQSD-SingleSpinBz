@@ -32,6 +32,14 @@
 
     "related_identifiers": [
         {
+            "identifier": "https://github.com/stonerlab/PIQSD-SingleSpinBz", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "identifier": "https://arxiv.org/abs/2303.00602", 
+            "relation": "isSupplementTo"
+        }, 
+        {
             "relation": "cites",
             "identifier": "10.1016/j.physa.2011.11.030"
         }
